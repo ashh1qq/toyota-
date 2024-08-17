@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(0, 0, 0, 0.5) url(car.jpg) center center fixed;
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
+}
